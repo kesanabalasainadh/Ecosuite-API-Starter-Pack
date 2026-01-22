@@ -335,3 +335,7 @@ curl -H "Authorization: Bearer $ECOSUITE_TOKEN" \
 For exact fields, response schemas, and additional query parameters, use:
 - https://docs.ecosuite.io/api
 - https://openapi.ecosuite.io/#/dashboard/dashboardStatus
+
+## Contact
+
+For more information, contact the Ecosuite team at bala@ecosuite.
